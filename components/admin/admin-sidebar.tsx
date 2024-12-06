@@ -34,6 +34,10 @@ const items = [
   { title: "Home", url: "/", icon: HomeIcon },
   { title: "Admin", url: "/admin", icon: GaugeIcon },
   { title: "Users", url: "/admin/users", icon: Table2Icon },
+  { title: "Projects", url: "/admin/projects", icon: Table2Icon },
+  { title: "Bugs", url: "/admin/bugs", icon: Table2Icon },
+  { title: "Comments", url: "/admin/comments", icon: Table2Icon },
+  { title: "Statuses", url: "/admin/statuses", icon: Table2Icon },
 // [CODE_MARK admin-sidebar-items]
 ];
 
